@@ -1,0 +1,15 @@
+# build
+target/
+build/
+*.mv.db
+*.trace.db
+
+# env
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
